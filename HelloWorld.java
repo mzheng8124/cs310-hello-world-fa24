@@ -15,7 +15,10 @@ public class HelloWorld {
         // v1.0
     }
     private void f2() {
-        // v1.0
+        // v2.0
+    }
+    private void f3() {
+        // v3.0
     }
 
 }
